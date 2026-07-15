@@ -57,8 +57,8 @@ Before running the application, ensure you have the following installed on your 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yourusername/smart-document-scanner.git](https://github.com/yourusername/smart-document-scanner.git)
-   cd smart-document-scanner
+   git clone [https://github.com/Ravi-Kishan-Kumar/Smart-Document-Scanner.git](https://github.com/yourusername/smart-document-scanner.git)
+   cd Smart-Document-Scanner
 
 ```
 
