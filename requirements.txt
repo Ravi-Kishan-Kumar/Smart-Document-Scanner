@@ -1,0 +1,14 @@
+@"
+streamlit
+pandas
+pytesseract
+Pillow
+PyPDF2
+python-docx
+easyocr
+deep-translator
+spacy
+opencv-python
+numpy
+pyttsx3
+"@ | Out-File requirements.txt -Encoding UTF8
