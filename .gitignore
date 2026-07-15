@@ -1,0 +1,14 @@
+@"
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+dist/
+build/
+.streamlit/
+"@ | Out-File .gitignore -Encoding UTF8
+
+git add .gitignore
+git commit -m "Add .gitignore"
+git push
